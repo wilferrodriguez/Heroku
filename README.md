@@ -1,2 +1,0 @@
-# Heroku
-Created with CodeSandbox
